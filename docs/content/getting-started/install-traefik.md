@@ -142,6 +142,6 @@ And run it:
 
 ## Compile your Binary from the Sources
 
-All the details are available in the [Contributing Guide](../contributing/building-testing.md)
+All the details are available in the [Contributing Guide](../contributing/building-distribution](./#use-the-binary-distribution)testing.md)
 
 {!traefik-for-business-applications.md!}
